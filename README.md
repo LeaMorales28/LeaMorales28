@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LeaMorales28
-- 👀 I’m interested in front-end web development, software development, and network security.
-- 🌱 I’m currently learning all the basics of HTM and CSS. 
-- 💞️ I’m looking to collaborate on ...I don't know yet.
+- 👋 Hi, I’m @LeaMorales28! I'm an LLM Analyst and a part-time English Tutor. 
+- 👀 I’m interested in front-end web development, software development, and cybersecurity.
+- 🌱 I’m currently learning all the basics of SQL and Python. 
+- 💞️ I’m looking to collaborate on easy front-end development projects in the future.
 - 📫 How to reach me ...On Twitter: @Art3misLM
 
 <!---
